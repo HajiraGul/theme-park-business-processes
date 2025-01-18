@@ -16,6 +16,7 @@ This document contains the following sections:
 
 ### Purpose:
 This document serves as the initial conceptualization of the system's core business functions. The document serves as the basis for further modeling and development.
+
 ---
 ## Module 2: Collaboration Diagrams
 
@@ -32,6 +33,7 @@ This document contains collaboration diagrams for the following processes:
 ### Purpose:
 
 The collaboration diagrams provide a visual representation of message flows and object interactions, offering a clearer understanding of the system's runtime behavior. These diagrams aid in identifying the relationships between different elements of the system.
+
 ---
 ## Module 3: Business Process Models with Data Objects
 
@@ -48,6 +50,7 @@ This document contains diagrams of the following business processes, integrating
 ### Purpose:
 
 The diagrams in this module emphasize the flow and handling of data throughout the system. They aim to clarify the relationships between processes, and the specific data manipulated in the system.
+
 ---
 ## Module 4: Exception Handling
 
